@@ -15,7 +15,7 @@ import countryfilter from './CountryFilter.vue'
 import cardlist from './CardList.vue'
 import lottery from './Lottery.vue'
 export default {
-  name: 'hello',
+  name: 'mainbody',
   data () {
     return {
     }
