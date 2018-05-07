@@ -1,5 +1,5 @@
 <template>
-<div>
+<div id="cardlist">
     <card v-for="(row,index) in cards" :key="row.uuid" :card="row" @click="removeItem(row.uuid)"></card>
 </div>
 </template>

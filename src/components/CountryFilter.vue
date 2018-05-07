@@ -17,6 +17,9 @@
                     <input type="checkbox" name="notableware" id="notableware" v-model="notableware">
                     <label for="notableware">不要餐具</label>
                 </li>
+                <li>
+                    <button v-print="'#cardlist'">列印</button>
+                </li>
             </div>
   <div class="row">
         <table class="table">

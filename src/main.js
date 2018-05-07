@@ -4,6 +4,9 @@ import Vue from 'vue'
 import router from './router'
 import Vuex from 'vuex'
 import App from './App'
+import Print from 'vue-print-nb'
+
+Vue.use(Print);
 
 Vue.config.productionTip = false
 
