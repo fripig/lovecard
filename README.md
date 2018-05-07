@@ -1,30 +1,8 @@
-# lovecard
+# 愛心碼卡片產生器
+方便讓你不用說話就能讓店員知道你要用哪個愛心碼
 
-> A Vue.js project
+順便講不要餐具ＸＤ
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 愛心碼來源
+  政府資料開放平台
+  https://data.gov.tw/dataset/31868
