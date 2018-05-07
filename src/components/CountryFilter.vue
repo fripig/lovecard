@@ -11,7 +11,7 @@
             <div class="row">
                 <li>
                     <input type="checkbox" name="noinvoice" id="noinvoice" v-model="noinvoice">
-                    <label for="noinvoice">不要發票</label>
+                    <label for="noinvoice">不要明細</label>
                 </li>
                 <li>
                     <input type="checkbox" name="notableware" id="notableware" v-model="notableware">
